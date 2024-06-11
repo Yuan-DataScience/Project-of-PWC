@@ -32,7 +32,7 @@ The project involved the following tasks:
 ### Result
 - Successfully cleaned and prepared a dataset of nearly 14,000 entries.
 - Defined and visualized KPIs that provided valuable insights for the company’s digital transformation efforts.
-- Delivered six comprehensive Power BI dashboards, facilitating data-driven decision-making within the Call Center, Customer Retention, and Human Resources departments.
+- Delivered 5 comprehensive Power BI dashboards, facilitating data-driven decision-making within the Call Center, Customer Retention, and Human Resources departments.
 
 #### Dashboards
 
