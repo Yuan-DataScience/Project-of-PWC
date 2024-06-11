@@ -1,4 +1,4 @@
-# (PWC Project) Digital Transformation Data Analysis for a Telecommunications Company
+# (PWC Project) Data Analysis for a Telecommunications Company
 
 ## Overview
 
