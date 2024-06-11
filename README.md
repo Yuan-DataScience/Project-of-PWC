@@ -25,7 +25,7 @@ The project involved the following tasks:
     - Identified and defined KPIs that aligned with each department's goals and objectives.
 
 3. **Data Visualization**:
-    - Created six Power BI dashboards, one for each department and additional insights.
+    - Created 5 Power BI dashboards, one for each department and additional insights.
     - Visualized key metrics and trends to provide actionable insights.
     - Ensured the dashboards were user-friendly and could be easily interpreted by stakeholders.
 
