@@ -1,4 +1,4 @@
-# (PWC Project) Data Analysis for a Telecommunications Company
+# Data Analysis for a Telecommunications Company
 
 ## Overview
 
