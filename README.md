@@ -1,4 +1,4 @@
-#  Data Analysis for a Telecommunications Company
+#  Telecom Digital Transformation Project
 
 ## Overview
 
