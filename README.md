@@ -1,6 +1,4 @@
 #  Telecom Digital Transformation Project
-## Project Description
-In collaboration with PWC and Forage, I participated in a virtual internship as a Data Analyst for PWC. The client, a large telecommunications company, was undergoing a digital transformation. This project involved analyzing three datasets provided by three different departments: Call Center, Customer Retention, and Human Resources. The project comprised three main tasks and resulted in the creation of 5 Power BI dashboards.
 
 ## Overview
 
