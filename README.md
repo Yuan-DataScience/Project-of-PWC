@@ -59,7 +59,7 @@ The project involved the following tasks:
 This project showcased my ability to handle large datasets, perform thorough data cleaning, define relevant KPIs, and create effective visualizations. The successful completion of this project contributed to the client’s understanding and utilization of their data, supporting their digital transformation journey.
 
 ## Contact
-For more details, please refer to the [GitHub repository](https://github.com/Yuan-DataScience/Project-of-PWC) or contact me at [your-email@example.com](mailto:your-email@example.com).
+For more details, please refer to the [GitHub repository](https://github.com/Yuan-DataScience/Project-of-PWC) or contact me at [yuanyuantang1110@gmail.com](mailto:tangyuanyuan1110@gmail.com).
 
 ---
 
